@@ -53,7 +53,7 @@ body{background-color: grey;}
 
 
 
-#header, #nav, #footer {
+header, nav, footer {
                 padding: 10px;
                 background-color: aqua;
                 text-align: center;
