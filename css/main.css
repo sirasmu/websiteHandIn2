@@ -14,7 +14,7 @@ body{background-color: grey;}
 #content
         {
             background-color: antiquewhite;
-            background-image: url(../images/background.jpg)
+            background-image: url(../images/background.jpg);
                 width: 1100px;
             margin: 0;
             overflow:auto;
